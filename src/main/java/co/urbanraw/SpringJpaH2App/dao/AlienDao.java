@@ -5,5 +5,6 @@ import org.springframework.data.repository.CrudRepository;
 import co.urbanraw.SpringJpaH2App.Alien;
 
 public interface AlienDao extends CrudRepository<Alien, Integer>{
+	
 
 }
