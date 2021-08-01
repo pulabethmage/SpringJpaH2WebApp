@@ -6,7 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Home</title>
 
-<form action="addAlien">
+<form action="addAlien" method="post">
 
 Enter Alien Id : <input type="text" name="aid"><br>
 Enter Alien Name : <input type="text" name="aname"/><br>
